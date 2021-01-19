@@ -1,0 +1,10 @@
+Win64
+PlayerPath?
+C:/Users/Kent/AppData/Local/Temp/DefaultCompany/Base VRChat Project/customscene.vrcw
+SceneListBegin?
+Assets/Scenes/SampleScene.unity
+SceneListEnd?
+1d70104a257f93fe87ec1da6f8ed6b3b VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+fa4e17efd02c94908849d17a23cfe0bb VRCSDK2.dll:VRCSDK2.VRC_PlayerMods
+10480eec36be4b6bdd6d8cc2b035dc73 VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+d25601db5f800892b41ff09aef0f5e19 VRCCore-Editor.dll:VRC.Core.PipelineManager
